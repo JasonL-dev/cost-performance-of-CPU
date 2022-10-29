@@ -18,3 +18,6 @@ For example, I want to buy a CPU around 3000 dollars, AMD EPYC 7402 will be a go
 
 **Usage:**  
 You can use the code file 'main' to crawl the lastest data, or you can establish gragh base on my csv file named 'cost_performance_of_CPUs' which updated in 2021.
+
+**license:**  
+MIT
